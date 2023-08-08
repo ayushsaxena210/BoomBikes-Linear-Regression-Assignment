@@ -43,4 +43,3 @@ These insights provide BoomBikes with actionable strategies to enhance their bik
 
 ---
 *Note: The analysis was conducted using a Jupyter Notebook included in this repository.*
-```
